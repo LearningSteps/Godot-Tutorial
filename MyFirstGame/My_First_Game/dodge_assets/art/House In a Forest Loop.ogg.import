@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/House In a Forest Loop.ogg-f5ffc7680312e691e1f3449018fc0759.oggstr"
+
+[deps]
+
+source_file="res://My_First_Game/dodge_assets/art/House In a Forest Loop.ogg"
+dest_files=[ "res://.import/House In a Forest Loop.ogg-f5ffc7680312e691e1f3449018fc0759.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

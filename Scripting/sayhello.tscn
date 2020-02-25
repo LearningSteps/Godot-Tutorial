@@ -1,0 +1,40 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://sayhello.gd" type="Script" id=1]
+
+[node name="Panel" type="Panel"]
+margin_left = 362.0
+margin_top = 167.0
+margin_right = 763.0
+margin_bottom = 400.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+anchor_left = 0.325
+anchor_top = 0.218
+anchor_right = 0.624
+anchor_bottom = 0.358
+margin_left = -7.67401
+margin_top = -5.58886
+margin_right = -40.573
+margin_bottom = -15.9489
+rect_scale = Vector2( 1.60048, 1.74051 )
+text = "This is a label"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button" type="Button" parent="."]
+anchor_left = -0.00176347
+anchor_right = -0.00176347
+margin_left = 96.5944
+margin_top = 119.172
+margin_right = 293.594
+margin_bottom = 191.172
+text = "Press me ~"
+__meta__ = {
+"_edit_use_anchors_": false
+}
